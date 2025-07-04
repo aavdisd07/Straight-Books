@@ -166,7 +166,7 @@ document.querySelector('#app').innerHTML = `
   <!-- Hero Section -->
   <section id="home" class="relative pt-16 min-h-screen flex items-center justify-center text-white">
   <!-- Background Image -->
-  <div class="absolute inset-0 bg-cover bg-center z-[-2]" style="background-image: url('https://media.istockphoto.com/id/1420649842/vector/abstract-growing-financial-graph-chart-background.jpg?s=612x612&w=0&k=20&c=DrnE-jfCYEOkPEMePE8VhNDwzYT-H_Gs8GVbRrwXx0w=');"></div>
+  <div class="absolute inset-0 bg-cover bg-center z-[-2]" style="background-image: url('https://sdmntpreastus.oaiusercontent.com/files/00000000-eaa4-61f9-9409-3cdd1b6878b0/raw?se=2025-07-04T08%3A27%3A40Z&sp=r&sv=2024-08-04&sr=b&scid=b37cc700-8f9c-5646-9f54-01f2014b9bfb&skoid=5cab1ff4-c20d-41dc-babb-df0c2cc21dd4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-03T15%3A10%3A44Z&ske=2025-07-04T15%3A10%3A44Z&sks=b&skv=2024-08-04&sig=%2B/u4ec6DSnGJ6ikfL2jmEwqOn6f4DAM4m8PGVazTwBs%3D');"></div>
 
   <!-- Overlay -->
   <div class="absolute inset-0 bg-black bg-opacity-60 z-[-1]"></div>
